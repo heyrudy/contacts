@@ -1,0 +1,34 @@
+{
+  "properties": [
+    {
+      "name": "swagger.api.info.title",
+      "type": "java.lang.String",
+      "description": "Description for swagger.api.info.title."
+    },
+    {
+      "name": "swagger.api.info.description",
+      "type": "java.lang.String",
+      "description": "Description for swagger.api.info.description."
+    },
+    {
+      "name": "swagger.api.info.version",
+      "type": "java.lang.String",
+      "description": "Description for swagger.api.info.version."
+    },
+    {
+      "name": "swagger.api.info.contact-name",
+      "type": "java.lang.String",
+      "description": "Description for swagger.api.info.contact-name."
+    },
+    {
+      "name": "swagger.api.info.contact-email",
+      "type": "java.lang.String",
+      "description": "Description for swagger.api.info.contact-email."
+    },
+    {
+      "name": "swagger.api.info.host-name",
+      "type": "java.lang.String",
+      "description": "Description for swagger.api.info.host-name."
+    }
+  ]
+}
